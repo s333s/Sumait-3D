@@ -1,0 +1,6 @@
+{
+  "name": "SUMAIT 3D | سميط - أطلس واستكشاف المسارات الجبلية في سلطنة عُمان",
+  "description": "أطلس واستكشاف المسارات الجبلية وتضاريس سلطنة عُمان بتقنيات ثنائية وثلاثية الأبعاد ونظام التتبع التكتيكي ومحاكاة القوافل وتحليل الذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
